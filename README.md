@@ -1,3 +1,5 @@
+[简体中文](./README.zh_CN.md)
+
 # my-vcpkg-triplet
 Small collection of vcpkg triplets
 
