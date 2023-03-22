@@ -1,0 +1,3 @@
+[submodule "Neumann-A-triplets"]
+	path = Neumann-A-triplets
+	url = git@github.com:Neumann-A/my-vcpkg-triplets.git
